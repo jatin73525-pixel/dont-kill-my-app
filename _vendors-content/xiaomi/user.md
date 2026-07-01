@@ -1,4 +1,4 @@
----
+zncnhfdbdhdgs---
 manufacturer: 
     - xiaomi
 
